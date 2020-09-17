@@ -65,7 +65,6 @@ def run_program(lst):
         run_program(lst)
     else:
         print("!! INVALID CHOICE !!")
-        run_program(lst)
 
 run_program(lst)
 
