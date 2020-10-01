@@ -17,7 +17,7 @@ Minimum Steps to solve the puzzle
     2^n - 1
     Example:
     for '2 disks' minimum steps are,
-    2^2 -1 = 4
+    2^2 -1 = 3
     for '3 disks' minimum steps are,
     2^3 -1 = 7
 '''
